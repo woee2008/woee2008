@@ -150,10 +150,7 @@ Probably everything is counted ◝(ᵔᵕᵔ)◜</br>
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             0 secs                ██████████████▓░░░░░░░░░░   58.99 %
-JavaScript       0 secs                ███████░░░░░░░░░░░░░░░░░░   28.45 %
-GitIgnore file   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-CSS              0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
